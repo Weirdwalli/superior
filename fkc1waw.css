@@ -1,0 +1,43 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * industry:
+ *   - http://typekit.com/eulas/00000000000000007735a64e
+ *   - http://typekit.com/eulas/00000000000000007735a64f
+ *   - http://typekit.com/eulas/00000000000000007735a650
+ *   - http://typekit.com/eulas/00000000000000007735a651
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2023-01-24 23:31:35 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"industry";
+src:url("af/44c438/00000000000000007735a64e/30/l") format("woff2"),url("af/44c438/00000000000000007735a64e/30/d") format("woff"),url("af/44c438/00000000000000007735a64e/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"industry";
+src:url("af/94f9bd/00000000000000007735a64f/30/l") format("woff2"),url("af/94f9bd/00000000000000007735a64f/30/d") format("woff"),url("af/94f9bd/00000000000000007735a64f/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"industry";
+src:url("af/08fe52/00000000000000007735a650/30/l") format("woff2"),url("af/08fe52/00000000000000007735a650/30/d") format("woff"),url("af/08fe52/00000000000000007735a650/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"industry";
+src:url("af/79952e/00000000000000007735a651/30/l") format("woff2"),url("af/79952e/00000000000000007735a651/30/d") format("woff"),url("af/79952e/00000000000000007735a651/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+.tk-industry { font-family: "industry",sans-serif; }
